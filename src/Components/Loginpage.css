@@ -1,0 +1,39 @@
+#login{
+    background-color: #61DAFB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+}
+
+#mypaper{
+
+   width: 50%;
+   margin: auto auto auto auto;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+}
+
+#myform{
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin: auto auto auto auto;
+    padding: 50px;
+
+}
+
+#valid{
+    text-align: left;
+}
+
+#Green{
+    color: green;
+    font-size: 1.5vw;
+    
+}
+
+#Red{
+    color: red;
+    font-size: 1.5vw;
+    
+}
